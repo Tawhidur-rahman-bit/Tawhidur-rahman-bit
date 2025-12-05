@@ -1,4 +1,4 @@
-## Hi there ,
+## Hi there ,I am a competitive programming enthusiast currently learning software development and software engineering, with a focus on improving problem-solving skills .
 ### 🎓 Education
 - B.Sc in CSE  
 - Chandpur science and technology unversity, Chandpur  
