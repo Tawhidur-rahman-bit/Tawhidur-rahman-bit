@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ,
 ### 🎓 Education
 - B.Sc in CSE  
 - Chandpur science and technology unversity, Chandpur  
