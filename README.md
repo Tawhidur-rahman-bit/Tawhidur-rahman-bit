@@ -3,6 +3,12 @@
 - B.Sc in CSE  
 - Chandpur science and technology unversity, Chandpur  
 _Currently in 2nd Year_
+## Contact Me
+
+- 📞 Phone: +8801810300479
+
+
+
 <!--
 **Tawhidur-rahman-bit/Tawhidur-rahman-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
