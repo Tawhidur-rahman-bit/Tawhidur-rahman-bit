@@ -3,6 +3,16 @@
 - B.Sc in CSE  
 - Chandpur science and technology unversity, Chandpur  
 _Currently in 2nd Year_
+## Competitive Programming
+
+I am an active competitive programmer.  
+Check out my Codeforces profile here: [Codeforces](## Competitive Programming
+
+I am an active competitive programmer.  
+Check out my Codeforces profile here: [Codeforces](https://codeforces.com/profile/YourUsername)
+)
+
+
 ## Contact Me
 
 - 📞 Phone: +8801810300479
